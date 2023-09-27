@@ -2,7 +2,6 @@
 
 <!--
 **rdabbs88/rdabbs88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 -->
 
@@ -10,8 +9,8 @@ I am currently a Junior student at the University of Maryland, pursuing a double
 about technology, finance, and problem solving love constantly . On a more personal note, I love playing soccer, traveling, hiking,
 snowboarding, playing board games, and meeting new people!
 
-- 📫 How to reach me: ...
-[![Gmail Badge[(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryandabbs88@gmail.com)
+- 📫 How to reach me:
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryandabbs88@gmail.com)
 
 <!--
 - 🔭 I’m currently working on ...
