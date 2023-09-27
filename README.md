@@ -9,7 +9,7 @@ I am currently a Junior student at the University of Maryland, pursuing a double
 about technology, finance, and problem solving love constantly . On a more personal note, I love playing soccer, traveling, hiking,
 snowboarding, playing board games, and meeting new people!
 
-- 📫 How to reach me:
+- 📫 How to reach me: <br>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryandabbs88@gmail.com)
 
 <!--
