@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-I am currently a Junior student at the University of Maryland, pursuing a double degree in Computer Science and Finance. I am passionate
+I am currently a Senior at the University of Maryland, pursuing a double degree in Computer Science and Finance. I am passionate
 about technology, finance, and constantly learning new things. On a more personal note, I love playing soccer, traveling, hiking,
 snowboarding, playing board games, and meeting new people!
 
